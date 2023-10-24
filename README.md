@@ -13,6 +13,10 @@ apt:
 pacman:
 `sudo pacman -S gcc`
 
+Windows
+
+don care go install on your own
+
 ### Compile
 
 `gcc main.c -o main.exe`
