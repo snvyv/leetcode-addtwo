@@ -22,3 +22,5 @@ don care go install on your own
 `gcc main.c -o main.exe`
 
 Congratulations, you are now smarter than LeetCode itself. (LeetCodes compiler would just error here)
+
+Credits to [Square](https://github.com/lesquare) for making my code compatible for gcc (by adding main func and whatnot) and finding out that the leetcode compiler sucks.
